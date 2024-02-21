@@ -51,13 +51,12 @@ Termin oddania raportu i GitHuba
 Student zbiera punkty spośród możliwych do zdobycia:
 | Lp. | max punktacja | Rodzaj zadania |
 |--------------|-------------------------------|-----------------------------|
-| 1. | 25 | Jednoosobowa prezentacja na Journal Club - [30, 40] min |
-| 2. | 10 | Test z Journal Club |
-| 3. | 10 | Prezentacja działania algorytmów - "wyścig" |
-| 4. | 15 | Grupowa prezentacja projektu na Lab - [15, 25] min |
-| 5. | 10 | Jedna grupa - prezentacja projektu na wykładzie - 10 min |
-| 6. | 10 | GitHub |
-| 7. | 30 | Raport z projektu |
+| 1. | ? | Prezentacja na Journal Club |
+| 2. | ? | Praca systematyczna |
+| 3. | ? | Prezentacja działania algorytmów |
+| 4. | ? | Grupowa prezentacja projektu na Lab |
+| 6. | ? | GitHub |
+| 7. | ? | Raport z projektu |
 
 Zebrane punkty przelicza się na ocenę według następującej skali:
 | 2 | 3 | 3.5 | 4 | 4.5 | 5 |
