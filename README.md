@@ -14,15 +14,11 @@ RL jest frameworkiem pod który można podpiąć wiele praktycznych problemów d
 
 ---
 
-NVIDIA używa RL do projektowania swoich kart graficznych
-
-[PrefixRL: Optimization of Parallel Prefix Circuits using Deep...](https://arxiv.org/abs/2205.07000)
+[NVIDIA używa RL do projektowania swoich kart graficznych](https://arxiv.org/abs/2205.07000)
 
 ---
 
-DeepMind pomagają w robieniu fuzji jądrowej za pomocą RL. Muszą zmieniać trochę moc magnesów w 1 ms, aby plazma miała odpowiednią temperaturę.
-
-[](https://www.nature.com/articles/s41586-021-04301-9)
+[DeepMind pomagają w robieniu fuzji jądrowej za pomocą RL. Muszą zmieniać trochę moc magnesów w 1 ms, aby plazma miała odpowiednią temperaturę.](https://www.nature.com/articles/s41586-021-04301-9)
 
 ---
 
