@@ -6,14 +6,41 @@ Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż 
 
 # Reinforcement Learning
 
-Warsztaty będą dotyczyć Uczenia ze Wzmocnieniem (ang. Reinforcement Learning), które stanowi podstawę wielu zaawansowanych systemów sztucznej inteligencji. Studenci będą zgłębiać różne techniki, w tym:
+Warsztaty będą dotyczyć Uczenia ze Wzmocnieniem (ang. Reinforcement Learning), które stanowi podstawę wielu zaawansowanych systemów sztucznej inteligencji.
+
+### Motywacja
+
+RL jest frameworkiem pod który można podpiąć wiele praktycznych problemów dzisiejszego świata. Algorytmy RL są używane do rozwiązywania praktycznych problemów biznesowych. Częściej mamy środowisko niż dane i obserwacje, więc RL ma więcej sensu niż uczenie z nauczycielem.
+
+---
+
+NVIDIA używa RL do projektowania swoich kart graficznych
+
+[PrefixRL: Optimization of Parallel Prefix Circuits using Deep...](https://arxiv.org/abs/2205.07000)
+
+---
+
+DeepMind pomagają w robieniu fuzji jądrowej za pomocą RL. Muszą zmieniać trochę moc magnesów w 1 ms, aby plazma miała odpowiednią temperaturę.
+
+[](https://www.nature.com/articles/s41586-021-04301-9)
+
+---
+
+“ChatGPT is taught using Reinforcement Learning from Human Feedback (RLHF)” ~ OpenAI
+
+### Tematy
+
+Studenci będą zgłębiać różne techniki, w tym:
 
 1. Metoda Monte Carlo
-2. Metoda Q-learning
-3. Algorytmy oparte na sieciach neuronowych
-4. Metoda Actor-Critic
+2. TD-Learning
+2. Q-learning
+3. On-policy vs off-policy
+4. SARSA
+3. Algorytmy oparte na sieciach neuronowych (jeśli starczy czasu)
+4. Metoda Actor-Critic (jeśli starczy czasu)
 
-Nacisk będzie kładziony na praktyczne zastosowania tych technik w różnych dziedzinach, takich jak gry komputerowe, robotyka czy zarządzanie zasobami.
+Nacisk będzie kładziony na praktyczne zastosowania tych technik oraz dogłębne zrozumienie ich działania i różnic - mocnych i słabych stron.
 
 # Terminarz
 
@@ -67,7 +94,12 @@ Oznacza to, że w celu zaliczenia przedmiotu student musi zdobyć ponad 0 pkt za
 
 # Projekt
 
-Zespoły będą miały za zadanie napisać...
+Zespoły będą miały za zadanie użyć algorytmów omawianych na zajęciach do rozwiązania wybranej przez siebie gry. Przykłądowe gry które może wybrać zespół:
+
+1. Tetris
+2. Doom
+3. Trackmania
+4. Coś z ATARI
 
 # Pliki i Foldery
 
