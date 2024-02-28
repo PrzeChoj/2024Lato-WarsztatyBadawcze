@@ -8,7 +8,7 @@ Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż 
 
 Warsztaty będą dotyczyć Uczenia ze Wzmocnieniem (ang. Reinforcement Learning), które stanowi podstawę wielu zaawansowanych systemów sztucznej inteligencji.
 
-### Motywacja
+## Motywacja
 
 RL jest frameworkiem pod który można podpiąć wiele praktycznych problemów dzisiejszego świata. Algorytmy RL są używane do rozwiązywania praktycznych problemów biznesowych. Częściej mamy środowisko niż dane i obserwacje, więc RL ma więcej sensu niż uczenie z nauczycielem.
 
@@ -18,13 +18,13 @@ RL jest frameworkiem pod który można podpiąć wiele praktycznych problemów d
 
 ---
 
-[DeepMind pomagają w robieniu fuzji jądrowej za pomocą RL. Muszą zmieniać trochę moc magnesów w 1 ms, aby plazma miała odpowiednią temperaturę.](https://www.nature.com/articles/s41586-021-04301-9)
+[DeepMind używając RL pomagają w robieniu fuzji jądrowej. Muszą zmieniać trochę moc magnesów w 1 ms, aby plazma miała odpowiednią temperaturę.](https://www.nature.com/articles/s41586-021-04301-9)
 
 ---
 
 “ChatGPT is taught using Reinforcement Learning from Human Feedback (RLHF)” ~ OpenAI
 
-### Tematy
+## Tematy
 
 Studenci będą zgłębiać różne techniki, w tym:
 
@@ -38,17 +38,26 @@ Studenci będą zgłębiać różne techniki, w tym:
 
 Nacisk będzie kładziony na praktyczne zastosowania tych technik oraz dogłębne zrozumienie ich działania i różnic - mocnych i słabych stron.
 
+## Szczegóły
+
+Warsztaty składają się z części teoretycznej oraz praktycznej.
+
+Część teoretyczna realizowana jest na podstawie książki "reinforcement learning: an introduction" autorstwa Barto, Sutton. Zobaczymy ile uda nam się przerobić przez pierwsze 5 zajęć. Będą z tego prace domowe wystarczy zrobić kilka z nich. Książka całkowicie pomija aspekt projektowania nagrody.
+
+Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i napisaniu agenta, który będzie w to grał.
+
+
 # Terminarz
 
 |        Numer zajęć        |Data                          |Temat zajęć                         |
 |--------------|-------------------------------|-----------------------------|
 |1.|2024.02.22|Projektu brak; na wykładzie podział na grupy projektowe|
 |2.|2024.02.29|Zapoznanie się z tematyką przedmiotu; podział na zespoły|
-|3.|2024.03.07|Wykład Adam Chojecki|
+|3.|2024.03.07||
 |4.|2024.03.14||
 |5.|2024.03.21||
 |6.|2024.03.28||
-|7.|2024.04.04||
+|7.|2024.04.04|Wykład Adam Chojecki|
 |8.|2024.04.11||
 |9.|2024.04.18||
 |10.|2024.04.25||
@@ -74,12 +83,14 @@ Termin oddania raportu i GitHuba
 Student zbiera punkty spośród możliwych do zdobycia:
 | Lp. | max punktacja | Rodzaj zadania |
 |--------------|-------------------------------|-----------------------------|
-| 1. | ? | Prezentacja na Journal Club |
-| 2. | ? | Praca systematyczna |
-| 3. | ? | Prezentacja działania algorytmów |
-| 4. | ? | Grupowa prezentacja projektu na Lab |
-| 6. | ? | GitHub |
-| 7. | ? | Raport z projektu |
+| 1. | 15 | Praca domowa |
+| 2. | 10 | Prezentacja na Journal Club |
+| 3. | 5 | Kahoot! z Journal Club |
+| 4. | 5 | Praca systematyczna |
+| 5. | 10 | Prezentacja działania algorytmów |
+| 6. | 20 | Grupowa prezentacja projektu na Lab |
+| 7. | 5 | GitHub porządek i reprodukowalność |
+| 8. | 35 | Raport z projektu |
 
 Zebrane punkty przelicza się na ocenę według następującej skali:
 | 2 | 3 | 3.5 | 4 | 4.5 | 5 |
