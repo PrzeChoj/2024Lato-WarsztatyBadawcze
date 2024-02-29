@@ -40,9 +40,11 @@ Zwizualizuj brak zbieżności dla następujących ciągów:
 
 (e) $\alpha_n = \frac{1}{\sqrt{n}}$, gdzie (2) jest rozbieżny
 
-(f) $\alpha_n = 1$, gdzie (2) jest rozbieżny
+(f) $\alpha_n = 0.05$, gdzie (2) jest rozbieżny
 
-(g) Jeszcze jeden ciąg wybrany przez siebie.
+(g) $\alpha_n = 0.2$, gdzie (2) jest rozbieżny
+
+(h) Jeszcze jeden ciąg wybrany przez siebie.
 
 Jako zmienne losowe $R_i$ weź iid. z rozkładu standardowego normalnego. Jako $Q_1$ wybierz:
 
