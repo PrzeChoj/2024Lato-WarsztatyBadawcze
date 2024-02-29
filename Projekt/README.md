@@ -9,7 +9,7 @@ Każdy zespół musi posiadać co najmniej jedną osobe z roku 2 oraz jedną oso
 |--------------|--------------------|-------------------------------|-----------------------------|-------|-------|
 |1.| ? | ? | Jakub Grzywaczewski (3) | Marta Szuwarska (3), Igor Rudolf (2), Anna Ostrowska (2) | https://github.com/??? |
 |2.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
-|3.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
+|3.| Trackmania             | Training and unbeatable AI in Trackmania | Adam Kaniasty (2) | Adam Kaniasty (2), Igor Kołodziej (2), Hubert Kowalski (2), Norbert Frydrysiak (2), Krzysztof Sawicki (3) | https://github.com/AdamKaniasty/RL-Trackmania |
 |4.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
 
 
