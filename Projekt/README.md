@@ -7,7 +7,7 @@ Każdy zespół musi posiadać co najmniej jedną osobe z roku 2 oraz jedną oso
 
 |        Lp.     |    Skrócony temat zespołu | Temat |    Leader   |        Lista członków (rok studiów)                  |  Link do GitHuba |
 |--------------|--------------------|-------------------------------|-----------------------------|-------|-------|
-|1.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
+|1.| ? | ? | Jakub Grzywaczewski (3) | Marta Szuwarska (3), Igor Rudolf (2), Anna Ostrowska (2) | https://github.com/??? |
 |2.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
 |3.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
 |4.| ? | ? | ? (?) | ? (?), ? (?), ... | https://github.com/??? |
