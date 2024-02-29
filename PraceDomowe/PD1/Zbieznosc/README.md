@@ -6,7 +6,7 @@ Zwizualizuj zbieżność.
 
 ## Osoba zgłoszona (max 2 osoby, wybiorę jedną do zaprezentowania na zajęciach):
 
-(1) ...
+(1) Kacper Wnęk
 
 (2) ...
 
