@@ -32,15 +32,17 @@ Zwizualizuj powyższą zbieżność dla następujących ciągów:
 
 (b) $\alpha_n = \frac{1}{nlog(n)}$
 
+(c) $\alpha_n = \frac{1}{n^{2/3}}$
+
 Zwizualizuj brak zbieżności dla następujących ciągów:
 
-(c) $\alpha_n = \frac{1}{n^2}$, gdzie (1) jest zbieżny
+(d) $\alpha_n = \frac{1}{n^2}$, gdzie (1) jest zbieżny
 
-(d) $\alpha_n = \frac{1}{\sqrt{n}}$, gdzie (2) jest rozbieżny
+(e) $\alpha_n = \frac{1}{\sqrt{n}}$, gdzie (2) jest rozbieżny
 
-(e) $\alpha_n = 1$, gdzie (2) jest rozbieżny
+(f) $\alpha_n = 1$, gdzie (2) jest rozbieżny
 
-(e) Jeszcze jeden ciąg wybrany przez siebie.
+(g) Jeszcze jeden ciąg wybrany przez siebie.
 
 Jako zmienne losowe $R_i$ weź iid. z rozkładu standardowego normalnego. Jako $Q_1$ wybierz:
 
