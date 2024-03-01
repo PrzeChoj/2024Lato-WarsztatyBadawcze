@@ -1,13 +1,14 @@
-# Wieloręki bandyta niestacjonarny
+# Wieloręki bandyta
 
 **Zadanie warte 10 pkt**
 
-## Osoba zgłoszona (max 2 osoby, wybiorę jedną do zaprezentowania na zajęciach):
+## Osoba zgłoszona:
 
-(1) ...
+(a) ...
 
-(2) ...
+(b) ...
 
+(c) ...
 
 ## Problem wielorękiego bandyty
 Na zajęciach rozważaliśmy zadanie wielorękiego bandyty:
@@ -23,15 +24,27 @@ Aby zdobyć dużą nagrodę, agent chciałby grać często na maszynie, która d
 Dodatkowym utrudnieniem często występującym w praktycznych zastosowaniach jest niestacjonarność. Rozkład nagrody może zależeć od tego, jak długo trwa gra.
 
 ## Zadanie
-Zadanie 2.5 ze strony 33 "Reinforcement Learning: An Introduction" Sutton, Barto. Czyli:
+Zadanie 2.11 ze strony 44 "Reinforcement Learning: An Introduction" Sutton, Barto. Czyli:
 
-Zwizualizuj problemy, jakie napotykają metody estymujące średnią dla niestacjonarnych bandytów. Narysuj wykres, gdzie na osi OX będzie liczba losowań, a na osi OY % wyboru optymalnej akcji. Użyj $\alpha = 0.1$, $\varepsilon = 0.1$, 100 000 losowań.
+Narysuj wykres 2D, gdzie na osi OX będzie wartość parametru, a na osi OY średnia nagroda z gier od 100 000 do 200 000.
 
 Zacznij od 10 bandytów $\mathcal{N}(0, 1)$. Po każdym losowaniu do rozkładu każdego z bandytów dodaj liczbę wylosowaną (niezależnie dla każdego z bandytów) z rozkładu $\mathcal{N}(0, 0.01)$ i kumuluj je.
 
 (Nie mam pewności, czy opisałem to w sposób zrozumiały. W razie wątpliwości proszę pytać.)
 
 
+### Wersja a
+
+UCB, gdzie parametrem jest $c$.
+
+
+### Wersja b
+
+eps-greedy, gdzie parametrem jest $\varepsilon$.
+
+### Wersja c
+
+Optymistyczny greedy, gdzie parametrem jest $Q_0$. Wybierz $\alpha = 0.1$.
 
 
 
