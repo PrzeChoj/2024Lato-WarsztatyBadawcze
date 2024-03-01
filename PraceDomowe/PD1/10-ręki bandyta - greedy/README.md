@@ -4,7 +4,7 @@
 
 ## Osoba zgłoszona: Hubert Kowalski
 
-(a) ...
+(a) Hubert Kowalski
 
 (b) ...
 
