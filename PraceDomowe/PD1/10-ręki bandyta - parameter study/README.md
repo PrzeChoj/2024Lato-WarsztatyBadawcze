@@ -45,11 +45,11 @@ UCB, gdzie parametrem jest $c$.
 
 ### Wersja b
 
-eps-greedy, gdzie parametrem jest $\vareps$.
+eps-greedy, gdzie parametrem jest $\varepsilon$.
 
 ### Wersja c
 
-Optymistyczny greedy, gdzie parametrem jest $Q_0$. $\alpha = 0.1$
+Optymistyczny greedy, gdzie parametrem jest $Q_0$. Wybierz $\alpha = 0.1$.
 
 
 
