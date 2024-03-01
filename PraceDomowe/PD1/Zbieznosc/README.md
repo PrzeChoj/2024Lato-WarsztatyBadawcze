@@ -52,3 +52,6 @@ Jako zmienne losowe $R_i$ weź iid. z rozkładu standardowego normalnego. Jako $
 
 (II) $Q_1 = 10$
 
+
+
+# Chciałbym się zgłosić do tego zadania: Paweł Świderski
