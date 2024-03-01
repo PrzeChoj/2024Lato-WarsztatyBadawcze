@@ -12,7 +12,7 @@
 
 (d) ...
 
-(e) ...
+(e) Aleks Kapich
 
 (f) Jakub Lange
 
