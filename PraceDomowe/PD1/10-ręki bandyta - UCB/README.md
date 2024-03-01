@@ -5,11 +5,17 @@
 ## Osoba zgłoszona:
 
 (a) ...
+
 (b) ...
+
 (c) ...
+
 (d) ...
+
 (e) ...
+
 (f) ...
+
 (g) ...
 
 ## Problem wielorękiego bandyty
@@ -27,7 +33,7 @@ Są argumenty teoretycznie oraz praktyczne przemawiająca za tym, że UCB jest n
 
 UCB polega na wybraniu maszyny $a$, która maksymalizuje następującą wartość:
 
-$(Q_t(a) + c\sqrt{\frac{ln(t)}{N_t(a)}})$
+$Q_t(a) + c\sqrt{\frac{ln(t)}{N_t(a)}}$
 
 gdzie $N_t(a)$ to liczba wyborów maszyny $a$.
 
@@ -38,7 +44,7 @@ Estymuj wartość oczekiwaną bandyty jako średnią wartość z dotychczas wylo
 
 Porównaj 2 podejścia:
 
-1. eps-greedy gdzie $\eps = 0.1$
+1. eps-greedy gdzie $\varepsilon = 0.1$
 2. UCB, c=2
 
 Narysuj wykres 2D, gdzie na osi OX będzie liczba gier, a na osi OY średnia zebrana nagroda.
