@@ -2,7 +2,7 @@
 
 **Zadanie warte 5 pkt**
 
-## Osoba zgłoszona:
+## Osoba zgłoszona: Hubert Kowalski
 
 (a) ...
 
