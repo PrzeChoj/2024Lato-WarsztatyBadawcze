@@ -4,11 +4,11 @@
 
 ## Osoba zgłoszona:
 
-(a) ...
+(a) Krzysztof Sawicki
 
-(b) ...
+(b) Natalia Safiejko
 
-(c) ...
+(c) Wojciech Grabias
 
 ## Problem wielorękiego bandyty
 Na zajęciach rozważaliśmy zadanie wielorękiego bandyty:
