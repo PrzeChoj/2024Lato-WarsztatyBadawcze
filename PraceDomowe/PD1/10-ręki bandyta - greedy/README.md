@@ -16,7 +16,7 @@
 
 (f) Jakub Lange
 
-(g) ...
+(g) Norbert Frydrysiak 
 
 ## Problem wielorękiego bandyty
 Na zajęciach rozważaliśmy zadanie wielorękiego bandyty:
