@@ -5,11 +5,17 @@
 ## Osoba zgłoszona:
 
 (a) ...
+
 (b) ...
+
 (c) ...
+
 (d) ...
+
 (e) ...
+
 (f) ...
+
 (g) ...
 
 ## Problem wielorękiego bandyty
@@ -28,7 +34,7 @@ Estymuj wartość średnią bandyty przy pomocy wzoru $Q_{n+1} = Q_n + \alpha_n\
 
 Porównaj 2 podejścia:
 
-1. eps-greedy gdzie $\eps = 0.1$, $Q_1 = 0$
+1. eps-greedy gdzie $\varepsilon = 0.1$, $Q_1 = 0$
 2. greedy gdzie $Q_1 = 5$
 
 Narysuj wykres 2D, gdzie na osi OX będzie liczba gier, a na osi OY % wyborów najlepszego bandyty.
