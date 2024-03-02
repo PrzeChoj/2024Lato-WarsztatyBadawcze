@@ -30,7 +30,7 @@ Zwizualizuj powyższą zbieżność dla następujących ciągów:
 
 (a) $\alpha_n = \frac{1}{n}$
 
-(b) $\alpha_n = \frac{1}{nlog(n)}$
+(b) $\alpha_n = \frac{1}{nlog(n+1)}$
 
 (c) $\alpha_n = \frac{1}{n^{2/3}}$
 
