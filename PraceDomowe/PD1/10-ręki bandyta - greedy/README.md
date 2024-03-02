@@ -10,7 +10,7 @@
 
 (c) ...
 
-(d) ...
+(d) Michał Matejczuk
 
 (e) Aleks Kapich
 
