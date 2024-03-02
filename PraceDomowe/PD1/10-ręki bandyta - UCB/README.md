@@ -4,7 +4,7 @@
 
 ## Osoba zgłoszona:
 
-(a) ...
+(a) Miłosz Kita
 
 (b) ...
 

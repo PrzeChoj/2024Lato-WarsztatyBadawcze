@@ -4,19 +4,19 @@
 
 ## Osoba zgłoszona:
 
-(a) ...
+(a) Hubert Kowalski
 
 (b) ...
 
-(c) ...
+(c) Mateusz Kubita
 
-(d) ...
+(d) Michał Matejczuk
 
-(e) ...
+(e) Aleks Kapich
 
-(f) ...
+(f) Jakub Lange
 
-(g) ...
+(g) Norbert Frydrysiak 
 
 ## Problem wielorękiego bandyty
 Na zajęciach rozważaliśmy zadanie wielorękiego bandyty:
