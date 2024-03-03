@@ -26,7 +26,7 @@ Dodatkowym utrudnieniem często występującym w praktycznych zastosowaniach jes
 ## Zadanie
 Zadanie 2.11 ze strony 44 "Reinforcement Learning: An Introduction" Sutton, Barto. Czyli:
 
-Narysuj wykres 2D, gdzie na osi OX będzie wartość parametru, a na osi OY średnia nagroda z gier od 100 000 do 200 000.
+Narysuj wykres 2D, gdzie na osi OX będzie wartość parametru, a na osi OY średnia nagroda z gier od 10 000 do 20 000.
 
 Zacznij od 10 bandytów $\mathcal{N}(0, 1)$. Po każdym losowaniu do rozkładu każdego z bandytów dodaj liczbę wylosowaną (niezależnie dla każdego z bandytów) z rozkładu $\mathcal{N}(0, 0.01)$ i kumuluj je.
 
