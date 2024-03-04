@@ -42,7 +42,7 @@ Nacisk będzie kładziony na praktyczne zastosowania tych technik oraz dogłębn
 
 Warsztaty składają się z części teoretycznej oraz praktycznej.
 
-Część teoretyczna realizowana jest na podstawie książki "reinforcement learning: an introduction" autorstwa Barto, Sutton. Zobaczymy ile uda nam się przerobić przez pierwsze 5 zajęć. Będą z tego prace domowe wystarczy zrobić kilka z nich. Książka całkowicie pomija aspekt projektowania nagrody.
+Część teoretyczna realizowana jest na podstawie książki "reinforcement learning: an introduction" autorstwa Barto, Sutton dostępnej [tutaj](https://incompleteideas.net/book/RLbook2020.pdf). Zobaczymy ile uda nam się przerobić przez pierwsze 5 zajęć. Będą z tego prace domowe wystarczy zrobić kilka z nich. Książka całkowicie pomija aspekt projektowania nagrody.
 
 Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i napisaniu agenta, który będzie w to grał.
 
