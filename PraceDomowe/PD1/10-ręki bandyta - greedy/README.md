@@ -115,16 +115,16 @@ Mamy 10 bandytów:
 ### Wersja f
 Mamy 10 bandytów:
 
+1. $Exp(1)$
 1. $Exp(2)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
-1. $Exp(1)$
+1. $Exp(2)$
+1. $Exp(2)$
+1. $Exp(2)$
+1. $Exp(2)$
+1. $Exp(2)$
+1. $Exp(2)$
+1. $Exp(2)$
+1. $Exp(2)$
 
 
 ### Wersja g
