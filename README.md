@@ -55,14 +55,14 @@ Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i nap
 |2.|2024.02.29|Zapoznanie się z tematyką przedmiotu; podział na zespoły|
 |3.|2024.03.07|Zajęcia|
 |4.|2024.03.14|Zajęcia|
-|5.|2024.03.21|Zajęcia|
+|5.|2024.03.21|Konsultacje (zdalne)|
 |6.|2024.03.28|Zajęcia; Wybór prezentacji|
 |7.|2024.04.04|Zajęcia; Wykład Adam Chojecki|
-|8.|2024.04.11|Jurnal Club|
+|8.|2024.04.11|Zajęcia|
 |9.|2024.04.18|Jurnal Club|
 |10.|2024.04.25|Jurnal Club|
 |-|2024.05.02|Brak zajęć (Majówka)|
-|11.|2024.05.09|Konsultacje|
+|11.|2024.05.09|Jurnal Club|
 |12.|2024.05.16|Konsultacje|
 |13.|2024.05.23|Prezentacja działania algorytmów|
 |-|2024.05.30|Brak zajęć (Boże ciało)|
