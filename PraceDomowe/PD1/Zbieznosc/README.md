@@ -8,7 +8,7 @@ Zwizualizuj zbieżność.
 
 (1) Kacper Wnęk
 
-(2) ...
+(2) Paweł Świderski
 
 ## Twierdzenie o zbieżności
 Na zajęciach podane było twierdzenie (Strona 33, "Reinforcement Learning: An Introduction" Sutton, Barto):
