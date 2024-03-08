@@ -24,10 +24,10 @@ def ucb_select_bandit(ucb_bandit_mean,ucb_num_selections,c,step):
     rewards = ucb_bandit_mean + c * np.sqrt(np.log(step)/ucb_num_selections)
     return np.argmax(rewards)
     
-    
+N  =  10000
 
 def play():
-    for i in range(1000):
+    for i in range(N):
         epsg_choice = epsg_select_bandit(0.1,epsg_bandit_mean)
         epsg_reward = np.random.normal(bandits[epsg_choice][0],bandits[epsg_choice][1])
         epsg_num_selections[epsg_choice] += 1   
@@ -39,7 +39,7 @@ def play():
         ucb_bandit_mean[i] = ucb_reward
         ucb_mean_reward.append(ucb_mean_reward[i] + (ucb_reward - ucb_mean_reward[i]) / (i+1))
 
-    for i in range(10,1000):
+    for i in range(10,N):
         ucb_choice = ucb_select_bandit(ucb_bandit_mean,ucb_num_selections,2,i+1)
         ucb_reward = np.random.normal(bandits[ucb_choice][0],bandits[ucb_choice][1])
         ucb_num_selections[ucb_choice] += 1
@@ -50,8 +50,8 @@ def play():
 
 def main():
     play()
-    plt.plot(np.arange(1,1001),epsg_mean_reward[1:], label = 'epsg', color = 'grey')
-    plt.plot(np.arange(1,1001),ucb_mean_reward[1:], label = 'ucb', color = 'blue')
+    plt.plot(np.arange(1,N+1),epsg_mean_reward[1:], label = 'epsg', color = 'grey')
+    plt.plot(np.arange(1,N+1),ucb_mean_reward[1:], label = 'ucb', color = 'blue')
     plt.xlabel('Steps')
     plt.ylabel('Average reward')
     plt.title('UCB vs EPSG')
