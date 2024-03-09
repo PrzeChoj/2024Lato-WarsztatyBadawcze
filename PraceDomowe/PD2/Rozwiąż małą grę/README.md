@@ -7,9 +7,9 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 ## Osoba zgłoszona:
 
-(a) Paweł Świderski
+(a) ...
 
-(b) ...
+(b) Paweł Świderski 
 
 (c) ...
 
