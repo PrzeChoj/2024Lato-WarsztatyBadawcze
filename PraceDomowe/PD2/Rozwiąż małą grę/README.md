@@ -9,7 +9,7 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 (a) Hubert Kowalski
 
-(b) ...
+(b) Paweł Świderski 
 
 (c) ...
 
