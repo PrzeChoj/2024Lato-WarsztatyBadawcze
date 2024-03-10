@@ -13,7 +13,7 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 (c) Norbert Frydrysiak
 
-(d) ...
+(d) Adam Kaniasty
 
 ## Równanie Bellmana
 
