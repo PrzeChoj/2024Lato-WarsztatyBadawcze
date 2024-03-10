@@ -17,6 +17,8 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 (e) ...
 
+(f) ...
+
 ## Równanie Bellmana
 
 Na zajęciach wyprowadzone zostało równanie Bellmana:
