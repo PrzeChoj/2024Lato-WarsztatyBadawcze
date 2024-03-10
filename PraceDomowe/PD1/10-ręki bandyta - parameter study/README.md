@@ -4,9 +4,9 @@
 
 ## Osoba zgłoszona:
 
-(a) ...
+(a) Krzysztof Sawicki
 
-(b) ...
+(b) Krzysztof Sawicki
 
 (c) ...
 
