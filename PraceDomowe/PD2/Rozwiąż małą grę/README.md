@@ -15,6 +15,8 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 (d) Adam Kaniasty
 
+(e) ...
+
 ## Równanie Bellmana
 
 Na zajęciach wyprowadzone zostało równanie Bellmana:
@@ -50,7 +52,7 @@ Jaka jest optymalna strategia grania? Zwizualizuj, rysując wykres słupkowy, gd
 
 (d, 10 pkt) Przykład 3.5 z książki ze strony 80. Zreprodukuj prawą część obrazka 3.2 (obliczając te liczby równaniem Bellmana). Później za pomocą Programowania Dynamicznego znajdź strategię optymalną, czyli obrazek 3.5 z przykładu 3.8 ze strony 65.
 
-
+(e, 5 pkt) Na planszy 10 x 10 wymyśl labirynt. Rozwiąż go przy pomocy równania Bellmana.
 
 
 
