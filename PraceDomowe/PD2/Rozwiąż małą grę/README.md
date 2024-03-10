@@ -54,7 +54,11 @@ Jaka jest optymalna strategia grania? Zwizualizuj, rysując wykres słupkowy, gd
 
 (e, 5 pkt) Na planszy 7 x 7 wymyśl labirynt. Rozwiąż go przy pomocy równania Bellmana.
 
+(f, 10 pkt) Na planszy N x N wylosuj dla każdej kratki niezależnie, czy będzie ona ścianą z p-stwem 5%. Wylosuj jedną kratkę, która będzie końcem gry. Za wykonanie ruchu agent dostaje -1 pkt (więc jego celem jest jak najszybciej dostać się do kratki końca gry).
 
+Rozwiąż to zadanie przy pomocy równania Bellmana.
+
+Zwiększaj wartość N. Narysuj wykres, w którym na osi OX będzie N, a na osi OY czas, jaki był potrzebny do znalezienia rozwiązania (średnia z 3 różnych labiryntów wielkości N).
 
 
 
