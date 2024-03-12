@@ -48,7 +48,7 @@ Sprawdź wynik dla dużego $\gamma = 0.999$ oraz małego $\gamma = 0.001$.
 
 Narysuj rozwiązanie. W Pythonie można printować strzałki. Chcę zobaczyć planszę i jaki jest optymalny krok z monetą, a jaki bez monety. Jeśli gracz znajdzie się w kratce z monetą, moneta znika - nie można więc być w tej samej kratce co istniejąca moneta.
 
-(c, 5 pkt) Mamy $s \in \{1, 2, \ldots , 98, 99\}$ PLN. Jeśli będziemy mieli $100$, to agent dostaje +10. W każdym innym przypadku agent dostaje 0. Gra kończy się gdy mamy $0$, albo $100$ PLN. Agent może w jednym kroku postawić na szali dowolną liczbę złotych, ale nie mniej niż 1 i nie więcej niż posiada. Szansa wygranej jest $p$, która jest parametrem. Zbadaj $p=0.4$ (strona 84 w książce) oraz $p=0.9$.
+(c, 10 pkt) Mamy $s \in \{1, 2, \ldots , 98, 99\}$ PLN. Jeśli będziemy mieli $100$, to agent dostaje +10. W każdym innym przypadku agent dostaje 0. Gra kończy się gdy mamy $0$, albo $100$ PLN. Agent może w jednym kroku postawić na szali dowolną liczbę złotych, ale nie mniej niż 1 i nie więcej niż posiada. Szansa wygranej jest $p$, która jest parametrem. Zbadaj $p=0.4$ (strona 84 w książce) oraz $p=0.9$.
 
 Jaka jest optymalna strategia grania? Zwizualizuj, rysując wykres słupkowy, gdzie na osi OX jest liczba posiadanych pieniędzy, a na osi OY wartość, którą agent powinien postawić. Czy wynik zależy od $\gamma$? Jeśli tak / nie, to dlaczego? Zinterpretuj.
 
