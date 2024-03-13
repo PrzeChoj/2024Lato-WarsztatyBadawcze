@@ -52,7 +52,7 @@ Narysuj rozwiązanie. W Pythonie można printować strzałki. Chcę zobaczyć pl
 
 Jaka jest optymalna strategia grania? Zwizualizuj, rysując wykres słupkowy, gdzie na osi OX jest liczba posiadanych pieniędzy, a na osi OY wartość, którą agent powinien postawić. Czy wynik zależy od $\gamma$? Jeśli tak / nie, to dlaczego? Zinterpretuj.
 
-(d, 10 pkt) Przykład 3.5 z książki ze strony 80. Zreprodukuj prawą część obrazka 3.2 (obliczając te liczby równaniem Bellmana). Później za pomocą Programowania Dynamicznego znajdź strategię optymalną, czyli obrazek 3.5 z przykładu 3.8 ze strony 65.
+(d, 10 pkt) Przykład 3.5 z książki ze strony 60. Zreprodukuj prawą część obrazka 3.2 (obliczając te liczby równaniem Bellmana). Później za pomocą Programowania Dynamicznego znajdź strategię optymalną, czyli obrazek 3.5 z przykładu 3.8 ze strony 65.
 
 (e, 5 pkt) Na planszy 7 x 7 wymyśl labirynt. Rozwiąż go przy pomocy równania Bellmana.
 
