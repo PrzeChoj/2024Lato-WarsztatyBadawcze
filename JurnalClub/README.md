@@ -6,8 +6,10 @@ W tym folderze znajdować się będzie 6 prezentacji z tej części kursu. Preze
 
 |        Numer prezentacji        |Data                          |Temat prezentacji                         | Nazwiska i imiona prezentujących (3 osoby) |
 |--------------|-------------------------------|-----------------------------|-------------------|
-|1.|2024.03.28| - | - |
-|2.|2024.03.28| - | - |
+|1.|2024.03.28| Deep Reinforcement Learning for
+Quantitative Trading
+ | Aleks Kapich, Jakub Lange, Michał Matejczuk |
+|2.|2024.03.28| Dota 2 with Large Scale Deep Reinforcement Learning | Paweł Świderski, Mateusz Kubita, Kacper Wnęk |
 |3.|2024.04.25| - | - |
 |4.|2024.04.25| - | - |
 |5.|2024.05.09| - | - |
