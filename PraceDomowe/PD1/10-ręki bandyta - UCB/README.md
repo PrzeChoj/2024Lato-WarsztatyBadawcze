@@ -6,7 +6,7 @@
 
 (a) Miłosz Kita
 
-(b) ...
+(b) Igor Rudolf
 
 (c) ...
 
