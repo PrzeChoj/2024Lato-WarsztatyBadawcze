@@ -6,7 +6,7 @@
 
 (a) Hubert Kowalski
 
-(b) ...
+(b) Anna Ostrowska
 
 (c) Mateusz Kubita
 
