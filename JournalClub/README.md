@@ -1,4 +1,4 @@
-# Jurnal Club
+# Journal Club
 
 W tym folderze znajdować się będzie 6 prezentacji z tej części kursu. Prezentacje będą w dniach 2024.03.28 (na prośbę studentów wcześniej), 2024.04.25, 2024.05.09.
 
