@@ -15,7 +15,7 @@ Przy wyborze jakiejś bardziej skomplikowanej gry można argumentować zwiększe
 
 a) Anna Ostrowska (PD2 - rozwiąż małą grę a)
 
-b) ...
+b) Igor Rudolf (PD2- rozwiąż małą grę b)
 
 c) ...
 
