@@ -15,7 +15,7 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 (d) Adam Kaniasty
 
-(e) ...
+(e) Igor Kołodziej
 
 (f) Igor Rudolf
 
