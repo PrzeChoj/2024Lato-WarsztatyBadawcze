@@ -75,14 +75,13 @@ Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i nap
 Student zbiera punkty spośród możliwych do zdobycia:
 | Lp. | max punktacja | Rodzaj zadania |
 |--------------|-------------------------------|-----------------------------|
-| 1. | 15 | Praca domowa |
+| 1. | 20 | Praca domowa |
 | 2. | 15 | Prezentacja na Journal Club |
 | 3. | 5 | Kahoot! z Journal Club |
 | 4. | 5 | Praca systematyczna |
-| 5. | 5 | Prezentacja działania algorytmów |
-| 6. | 25 | Grupowa prezentacja projektu na Lab |
-| 7. | 5 | GitHub porządek i reprodukowalność |
-| 8. | 30 | Raport z projektu |
+| 5. | 25 | Grupowa prezentacja projektu na Lab |
+| 6. | 5 | GitHub porządek i reprodukowalność |
+| 7. | 30 | Raport z projektu |
 
 Zebrane punkty przelicza się na ocenę według następującej skali:
 | 2 | 3 | 3.5 | 4 | 4.5 | 5 |
