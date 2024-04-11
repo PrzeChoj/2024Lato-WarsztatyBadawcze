@@ -59,7 +59,7 @@ Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i nap
 |6.|2024.03.28|Journal Club|
 |7.|2024.04.04|Zajęcia; Wybór prezentacji; Wykład Adam Chojecki|
 |8.|2024.04.11|Zajęcia|
-|9.|2024.04.18|Zajęcia|
+|9.|2024.04.18|Konsultacje (możliwe zdalne)|
 |10.|2024.04.25|Journal Club|
 |-|2024.05.02|Brak zajęć (Majówka)|
 |11.|2024.05.09|Journal Club|
