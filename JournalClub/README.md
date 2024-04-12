@@ -8,9 +8,9 @@ W tym folderze znajdować się będzie 6 prezentacji z tej części kursu. Preze
 |--------------|-------------------------------|-----------------------------|-------------------|
 |1.|2024.03.28| Deep Reinforcement Learning for Quantitative Trading | Aleks Kapich, Jakub Lange, Michał Matejczuk |
 |2.|2024.03.28| Dota 2 with Large Scale Deep Reinforcement Learning | Paweł Świderski, Mateusz Kubita, Kacper Wnęk |
-|3.|2024.04.25| - | - |
+|3.|2024.04.25| MusicRL: Aligning Music Generation to Human Preferences using reinforcement learning | Natalia Safiejko, Krzysztof Sawicki, Wojciech Grabias |
 |4.|2024.04.25| Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors | Anna Ostrowska, Norbert Frydrysiak, Igor Rudolf |
-|5.|2024.05.09| - | - |
+|5.|2024.05.09| PPO and TRPO. Constrained Policy Gradient Methods | Jakub Grzywaczewski, Miłosz Kita, Marta Szuwarska |
 |6.|2024.05.09| - | - |
 
 # Tematy prezentacji
