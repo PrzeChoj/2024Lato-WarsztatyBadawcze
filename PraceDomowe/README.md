@@ -5,24 +5,24 @@ W tym folderze znajdują się prace domowe stanowiące 15% oceny. Każdy student
 Moim zdaniem najlepiej wysłać rozwiązanie jako Jupyter Notebook, albo skryptu R. W przypadku innego pomysłu, proszę się skonsultować.
 
 
-|        Nazwisko        |Punkty za PD                       | Prezentowanie  | Suma |
+|        Nazwisko        |Punkty za PD                       | Prezentowanie  | Suma (max 20) |
 |-------------------------------|-----------------------------|-------------------|------------------|
-|Frydrysiak	Norbert     | 5 (PD1) + 10 (PD1) + 10 (PD2) |||
-|	Kaniasty	Adam    | 10 (PD2) |||
-|Kita	Miłosz          | 5 (PD1) |||
-|Kołodziej	Igor        | 5 (PD2) |||
-|Kowalski	Hubert      | 5 (PD1) + 5 (PD2) |||
-|Ostrowska	Anna        | 5 (PD1) + 3 (PD3) (uwagi na prv) |||
-|Rudolf	Igor            | 0 (PD1) (uwagi na prv) + 10 (PD2) |||
-|	Grabias	Wojciech    | 10 (PD1) |||
-|Grzywaczewski	Jakub   | 15 (PD3) |||
-|Kapich	Aleks           | 5 (PD1) |||
-|Kubita	Mateusz         | 4 (PD1) (uwagi na prv) |||
-|Lange	Jakub           | 5 (PD1) |||
-|Matejczuk	Michał      | 5 (PD1) |||
-|	Safiejko	Natalia | 10 (PD1) |||
-|	Sawicki	Krzysztof   | 5 (PD1) + 5 (PD1) + 10 (PD1) |||
+|Frydrysiak	Norbert     | 5 (PD1) + 10 (PD1) + 10 (PD2) | 1 + 1 | 20 |
+|	Kaniasty	Adam    | 10 (PD2) | 1 | 11 |
+|Kita	Miłosz          | 5 (PD1) | 1 | 6 |
+|Kołodziej	Igor        | 5 (PD2) || 5 |
+|Kowalski	Hubert      | 5 (PD1) + 5 (PD2) | 1 | 11 |
+|Ostrowska	Anna        | 5 (PD1) + 3 (PD3) (uwagi na prv) || 8 |
+|Rudolf	Igor            | 5 (PD1) + 10 (PD2) || 15 |
+|	Grabias	Wojciech    | 10 (PD1) || 10 |
+|Grzywaczewski	Jakub   | 15 (PD3) | 1 | 16 |
+|Kapich	Aleks           | 5 (PD1) || 5 |
+|Kubita	Mateusz         | 4 (PD1) (uwagi na prv) || 4 |
+|Lange	Jakub           | 5 (PD1) || 5 |
+|Matejczuk	Michał      | 5 (PD1) || 5 |
+|	Safiejko	Natalia | 10 (PD1) | 1 | 11 |
+|	Sawicki	Krzysztof   | 5 (PD1) + 5 (PD1) + 10 (PD1) || 20 |
 |Szuwarska	Marta       ||||
-|	Świderski	Paweł   | 5 (PD1) + 10 (PD2) |||
-|Wnęk	Kacper          | 5 (PD1) |||
+|	Świderski	Paweł   | 5 (PD1) + 10 (PD2) || 15 |
+|Wnęk	Kacper          | 5 (PD1) || 5 |
 
