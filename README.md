@@ -63,8 +63,8 @@ Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i nap
 |10.|2024.04.25|Journal Club|
 |-|2024.05.02|Brak zajęć (Majówka)|
 |11.|2024.05.09|Journal Club|
-|12.|2024.05.16|Konsultacje|
-|13.|2024.05.23|Prezentacja działania algorytmów|
+|12.|2024.05.16|Konsultacje (możliwe zdalne)|
+|13.|2024.05.23|Konsultacje (możliwe zdalne)|
 |-|2024.05.30|Brak zajęć (Boże ciało)|
 |14.|2024.06.06|Prezentacje projektów; Termin oddania raportu i GitHuba|
 |15.|2024.06.13|Możliwość ustnej poprawy oceny|
