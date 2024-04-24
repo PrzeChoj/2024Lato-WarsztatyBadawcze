@@ -13,7 +13,7 @@ Przy wyborze jakiejś bardziej skomplikowanej gry można argumentować zwiększe
 
 ## Osoba zgłoszona (w nawiasie jaką grę będzie rozwiązywać):
 
-a) ... - Windy Gridworld
+a) Hubert Kowalski - Windy Gridworld
 
 b) ...
 
