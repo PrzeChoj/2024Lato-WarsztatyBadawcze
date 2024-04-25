@@ -12,7 +12,7 @@ Moim zdaniem najlepiej wysłać rozwiązanie jako Jupyter Notebook, albo skryptu
 |Kita	Miłosz          | 5 (PD1) | 1 | 6 |
 |Kołodziej	Igor        | 5 (PD2) || 5 |
 |Kowalski	Hubert      | 5 (PD1) + 5 (PD2) | 1 | 11 |
-|Ostrowska	Anna        | 5 (PD1) + 10 (PD3) || 15 |
+|Ostrowska	Anna        | 5 (PD1) + 10 (PD3) + 5 (pd4) || 20 |
 |Rudolf	Igor            | 5 (PD1) + 10 (PD2) || 15 |
 |	Grabias	Wojciech    | 10 (PD1) || 10 |
 |Grzywaczewski	Jakub   | 15 (PD3) | 1 | 16 |
