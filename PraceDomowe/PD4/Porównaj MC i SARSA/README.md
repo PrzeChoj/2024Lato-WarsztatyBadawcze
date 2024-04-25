@@ -15,7 +15,7 @@ Przy wyborze jakiejś bardziej skomplikowanej gry można argumentować zwiększe
 
 a) ... - Windy Gridworld
 
-b) ...
+b) Anna Ostrowska (PD2 - rozwiąż małą grę a)
 
 c) ...
 
