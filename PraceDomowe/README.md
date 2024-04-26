@@ -17,7 +17,7 @@ Moim zdaniem najlepiej wysłać rozwiązanie jako Jupyter Notebook, albo skryptu
 |	Grabias	Wojciech    | 10 (PD1) || 10 |
 |Grzywaczewski	Jakub   | 15 (PD3) | 1 | 16 |
 |Kapich	Aleks           | 5 (PD1) || 5 |
-|Kubita	Mateusz         | 4 (PD1) (uwagi na prv) || 4 |
+|Kubita	Mateusz         | 5 (PD1) || 5 |
 |Lange	Jakub           | 5 (PD1) || 5 |
 |Matejczuk	Michał      | 5 (PD1) || 5 |
 |	Safiejko	Natalia | 10 (PD1) | 1 | 11 |
