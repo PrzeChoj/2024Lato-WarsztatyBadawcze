@@ -66,7 +66,8 @@ Część praktyczna będzie polegała na wybraniu sobie gry przez zespół i nap
 |12.|2024.05.16|Konsultacje (możliwe zdalne)|
 |13.|2024.05.23|Konsultacje (możliwe zdalne)|
 |-|2024.05.30|Brak zajęć (Boże ciało)|
-|14.|2024.06.06|Prezentacje projektów; Termin oddania raportu i GitHuba|
+|14.|2024.06.06|Prezentacje projektów|
+|-|2024.06.09|Termin oddania raportu i GitHuba - 23:59|
 |15.|2024.06.13|Możliwość ustnej poprawy oceny|
 
 
