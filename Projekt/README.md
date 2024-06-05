@@ -30,7 +30,7 @@ Pliki `[Skrócony temat zespołu]_raport.pdf` - raport zespołu [Skrócony temat
 
 
 ### Wymagania ogólne
-1. Raport należy zamieścić do 2024.??.?? 23:59
+1. Raport należy zamieścić do 2024.06.09 23:59
 2. Raport musi być napisany w $\LaTeX$ u. Ja zawsze pisałem w darmowej wersji Overleafa i polecam najserdeczniej. Idealne do pracy wieloosobowej.
 3. Raport musi być czytelny i zrozumiały dla osoby, która nie zna polecenia
 4. Raport może być napisany w języku polskim bądź angielskim
