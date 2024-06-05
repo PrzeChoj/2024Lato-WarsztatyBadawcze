@@ -17,7 +17,9 @@ Każdy zespół musi posiadać co najmniej jedną osobe z roku 2 oraz jedną oso
 
 Prezentacje znajdować się będą w folderze `Prezentacje`.
 
-Pliki `[Skrócony temat zespołu]_lab.pdf` - prezentacja zespołu [Skrócony temat zespołu], która wygłoszona będzie w czasie laboratoriów 2024.??.??.
+Pliki `[Skrócony temat zespołu]_lab.pdf` - prezentacja zespołu [Skrócony temat zespołu], która wygłoszona będzie w czasie laboratoriów 2024.06.06.
+
+Prezentacja będzie trwać maksymalnie 20 minut + 2 minuty na pytania
 
 
 # Raport
