@@ -7,7 +7,7 @@ Zadanie można rozwiązywać samodzielnie (za 100% pkt) albo w parze (obie osoby
 
 ## Osoba zgłoszona:
 
-...
+Aleks Kapich
 
 ## Równanie Bellmana
 
