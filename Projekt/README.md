@@ -8,7 +8,7 @@ Każdy zespół musi posiadać co najmniej jedną osobe z roku 2 oraz jedną oso
 |        Lp.     |    Skrócony temat zespołu | Temat |    Leader   |        Lista członków (rok studiów)                  |  Link do GitHuba |
 |--------------|--------------------|-------------------------------|-----------------------------|-------|-------|
 |1.| Donkey Kong | Human level performance of an AI playing Donkey Kong | Jakub Grzywaczewski (3) | Marta Szuwarska (3), Igor Rudolf (2), Anna Ostrowska (2) | https://github.com/OptimalAgents/RL-DonkeyKong |
-|2.| Super Mario Bros | Przejście świata 1-1 SMB w jak najkrótszym czasie | Wojciech Grabias (3) | Natalia Safiejko (3), Miłosz Kita (2), Kacper Wnęk (3)| https://github.com/??? |
+|2.| Super Mario Bros | Przejście świata 1-1 SMB w jak najkrótszym czasie | Wojciech Grabias (3) | Natalia Safiejko (3), Miłosz Kita (2), Kacper Wnęk (3)| https://github.com/WojtekGrbs/SuperMarioBrosRL |
 |3.| Doom             | Training and unbeatable AI in Doom | Adam Kaniasty (2) | Adam Kaniasty (2), Igor Kołodziej (2), Hubert Kowalski (2), Norbert Frydrysiak (2), Krzysztof Sawicki (3) | https://github.com/AdamKaniasty/RL-Doom |
 |4.| ~~TrackMania~~ Doom | AI beating Michał Jan Matejczuk in ~~TrackMania~~ Doom | Aleks Kapich (3) | Jakub Lange (3), Aleks Kapich (3), Michał Matejczuk (3), Paweł Świderski (2), Mateusz Kubita (3) | https://github.com/AKapich/Reinforcement_Learning_Doom |
 
