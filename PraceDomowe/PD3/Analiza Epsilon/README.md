@@ -17,7 +17,7 @@ a) Anna Ostrowska (PD2 - rozwiąż małą grę a)
 
 b) Igor Rudolf (PD2- rozwiąż małą grę b)
 
-c) ...
+c) Wojciech Grabias (Labirynt 8x8)
 
 ...
 
