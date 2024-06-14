@@ -40,8 +40,8 @@ Pliki `[Skrócony temat zespołu]_raport.pdf` - raport zespołu [Skrócony temat
 4. Wstęp - co będzie robione w pracy
 3. Krótki opis gry
 4. Główne wyniki - dużo obrazków i wykresów. Analiza parametrów.
-5. Podsumowanie i wnioski
-6. Dalsze możliwości rozwoju - generalnie im więcej pomysłów tym lepiej, ale nie może jednak długością przekraczać podsumowania, bo to źle świadczy o ilości wykonanej pracy
+5. Dalsze możliwości rozwoju - generalnie im więcej pomysłów tym lepiej, ale nie może jednak długością przekraczać podsumowania, bo to źle świadczy o ilości wykonanej pracy
+6. Podsumowanie i wnioski
 7. Bibliografia:
     1. Wykonana w Bib $\TeX$
     2. Wszystkie rzeczy wymienione w Bibliografii muszą mieć odwołania w treści
