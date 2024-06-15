@@ -7,7 +7,9 @@ Do zadania możne się zgłosić dowolnie dużo studentów. Każdy jednak musi w
 
 ## Osoba zgłoszona (w nawiasie jaką grę będzie rozwiązywać):
 
-a) ... - Cliff Walking
+a) Marta Szuwarska - Cliff Walking
+
+b) ...
 
 ... (W przypadku większej liczby chętnych proszę zaproponować grę do rozwiązania)
 
