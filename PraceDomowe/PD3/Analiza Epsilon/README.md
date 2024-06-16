@@ -1,4 +1,4 @@
-# Analiza Gamma
+# Analiza Epsilon
 
 **Zadanie za 10 pkt**
 

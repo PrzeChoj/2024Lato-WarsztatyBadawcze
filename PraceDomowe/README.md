@@ -14,15 +14,15 @@ Moim zdaniem najlepiej wysłać rozwiązanie jako Jupyter Notebook, albo skryptu
 |Kowalski	Hubert      | 5 (PD1) + 5 (PD2) + 10 (PD4) | 1 | 21 |
 |Ostrowska	Anna        | 5 (PD1) + 10 (PD3) + 5 (PD4) || 20 |
 |Rudolf	Igor            | 5 (PD1) + 10 (PD2) || 15 |
-|	Grabias	Wojciech    | 10 (PD1) || 10 |
+|	Grabias	Wojciech    | 10 (PD1) + 5 (PD3) || 15 |
 |Grzywaczewski	Jakub   | 15 (PD3) | 1 | 16 |
-|Kapich	Aleks           | 5 (PD1) || 5 |
+|Kapich	Aleks           | 5 (PD1) + 10 (PD2) || 15 |
 |Kubita	Mateusz         | 5 (PD1) || 5 |
 |Lange	Jakub           | 5 (PD1) || 5 |
 |Matejczuk	Michał      | 5 (PD1) || 5 |
 |	Safiejko	Natalia | 10 (PD1) | 1 | 11 |
 |	Sawicki	Krzysztof   | 5 (PD1) + 5 (PD1) + 10 (PD1) || 20 |
-|Szuwarska	Marta       ||||
+|Szuwarska	Marta       | 5 (PD4) || 5 |
 |	Świderski	Paweł   | 5 (PD1) + 10 (PD2) || 15 |
 |Wnęk	Kacper          | 5 (PD1) || 5 |
 
